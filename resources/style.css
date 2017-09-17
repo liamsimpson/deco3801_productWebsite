@@ -1432,12 +1432,11 @@ button.close:hover {
 	}
 	#navigation.show { top:auto; }
 	#navigation .container { padding:0px; }
-	#navigation .navbar-brand { display:none; }
-	#navigation .nav-menu-links {
-		display:none;
-		float:none;
-	}
-	#navigation .nav-menu-links.in { display:block; }
+	#navigation .navbar-brand { display:none; }  
+    
+    
+    
+    #navigation .nav-menu-links.in { display:block; }
 	#navigation .nav {
 		height:auto;
 		background-color:#1595c2;
